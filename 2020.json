@@ -1,0 +1,118 @@
+{	"Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=com.",
+        
+        "appid": "pub-3940256099942544",
+        "admobappid": "ca-app-pub-3940256099942544~3347511713",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        
+        "icon_promote": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtcLivNTS9yLnzS7_Q6GT1HxV4QwzJqtCDNQeC8qvLUo-aLdShSQ&s",
+        "judul_promote": "Promote App Example",
+        "deskripsi_promote": "Ini mah hanya contoh saja promosi iklan via json",
+        "gambar_promote": "https://images.unsplash.com/photo-1565624352806-6174c3453048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80",
+        "link_promote": "https://www.google.com/",
+        "status_promote": "0",
+        
+        "interval": 1,
+        "inter_splash":"0",
+        "pengaturan_iklan":"1",
+        
+        "fan_inter":"981545408591412_999151030164183",
+        "fan_banner_native":"981545408591412_2709037092508893",
+        "fan_native":"981545408591412_1232226853523265",
+        
+        "inmobi_inter": 1584260716256,
+        "inmobi_banner":1586126155425,
+        "inmobi_id":"fe76b5f0cb4e4a65b134304c78b1cb94",
+        
+        
+         "startaap":"210552149"
+        
+      
+       
+
+        }
+    ],
+
+	"More":
+	[	
+	{
+    "id":1,
+    "judul":"Ludo King",
+    "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+	},
+	{
+    "id":2,
+    "judul":"Homescapes",
+    "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+	},
+	{
+    "id":3,
+    "judul":"Minecraft",
+    "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+	}
+	],
+	
+	
+	
+	"Categories": [
+    {
+		"id": 1,
+		"nama_cat": "Cars",
+		"gambar": "https://images.wallpaperscraft.com/image/cars_wheel_headlights_166444_1080x1920.jpg"
+     
+    },
+    {
+		"id": 2,
+		"nama_cat": "Birds",
+		"gambar": "https://images.wallpaperscraft.com/image/bird_feathers_blue_166448_1080x1920.jpg"
+    
+    },
+    {
+		"id": 3,
+		"nama_cat": "Island",
+		"gambar": "https://images.wallpaperscraft.com/image/island_waves_palm_trees_166432_1080x1920.jpg"
+    
+		}
+	],
+
+
+
+	"Wallpaper":
+	[	
+		{
+			"id":1,
+			"id_wall":"001",
+			"nama_cat": "Cars",
+			"judul":"Cars",
+			"image":"https://images.wallpaperscraft.com/image/cars_wheel_headlights_166444_1080x1920.jpg"
+		},
+		{
+			"id":2,
+			"id_wall":"002",
+			"nama_cat": "Birds",
+			"judul":"Birds",
+			"image":"https://1.bp.blogspot.com/-5LeUCxzSbSk/XpKDkhxa8MI/AAAAAAAAAAU/eL_f1gcRIyc5lX_IatYaCLbi0mBC5l2ygCLcBGAsYHQ/s640/2.jpg"
+		},
+		{
+			"id":3,
+			"id_wall":"003",
+			"nama_cat": "Island",
+			"judul":"Island",
+			"image":"https://images.wallpaperscraft.com/image/island_waves_palm_trees_166432_1080x1920.jpg"
+		},
+		{
+			"id":4,
+			"id_wall":"4",
+			"nama_cat": "Cars",
+			"judul":"Cars",
+			"image":"https://images.wallpaperscraft.com/image/cars_rear_view_gray_headlights_118641_1080x1920.jpg"
+		}
+
+	]
+}
