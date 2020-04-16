@@ -66,15 +66,16 @@
 	{
 		"id": 1,
 		"nama_cat": "BTS Grub",
-		"gambar": "https://1.bp.blogspot.com/-b7QzaJ1QtHc/Xpf6HmmdlPI/AAAAAAAAABo/qOF6vskI15AGqJ9T6ViiHAaEwF64TNevwCLcBGAsYHQ/s320/grub4.jpg"
+		"gambar": "https://1.bp.blogspot.com/-b7QzaJ1QtHc/Xpf6HmmdlPI/AAAAAAAAABo/qOF6vskI15AGqJ9T6ViiHAaEwF64TNevwCLcBGAsYHQ/s1600/grub4.jpg"
      
     },
     {
 		"id": 2,
 		"nama_cat": "Jhope",
-		"gambar": "https://1.bp.blogspot.com/-r8eEvl9vSx4/Xpf7BXN7iAI/AAAAAAAAADY/CM7h_SNC8Z0TXKF3y7pN6bmQzsJHw7d9wCLcBGAsYHQ/s320/jhope7.jpg"
+		"gambar": "https://1.bp.blogspot.com/-r8eEvl9vSx4/Xpf7BXN7iAI/AAAAAAAAADY/CM7h_SNC8Z0TXKF3y7pN6bmQzsJHw7d9wCLcBGAsYHQ/s1600/jhope7.jpg"
     
     }
+
 	
 	],
 
@@ -87,266 +88,266 @@
 			"id_wall":"001",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-5smyUbYb2QU/Xpf6D_xc0SI/AAAAAAAAAAw/rfJd3CpvIiEcm94B4ZCj2AWXoIggCTD4gCLcBGAsYHQ/s320/grub1.jpg"
+			"image":"https://1.bp.blogspot.com/-5smyUbYb2QU/Xpf6D_xc0SI/AAAAAAAAAAw/rfJd3CpvIiEcm94B4ZCj2AWXoIggCTD4gCLcBGAsYHQ/s1600/grub1.jpg"
 		},
 		{
 			"id":2,
 			"id_wall":"002",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-r3tMoA5eASQ/Xpf6GXyE_GI/AAAAAAAAABY/GJ6WZw2HMTM-aaegQ8mIHV-3L-ndZW70wCLcBGAsYHQ/s320/grub2.jpg"
+			"image":"https://1.bp.blogspot.com/-r3tMoA5eASQ/Xpf6GXyE_GI/AAAAAAAAABY/GJ6WZw2HMTM-aaegQ8mIHV-3L-ndZW70wCLcBGAsYHQ/s1600/grub2.jpg"
 		},
 		{
 			"id":3,
 			"id_wall":"003",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-OL24_oQzxs8/Xpf6HsCgwaI/AAAAAAAAABk/r-MzCziLXjIEQIO45HClwoHbB0_tbLoWwCLcBGAsYHQ/s320/grub3.jpg"
+			"image":"https://1.bp.blogspot.com/-OL24_oQzxs8/Xpf6HsCgwaI/AAAAAAAAABk/r-MzCziLXjIEQIO45HClwoHbB0_tbLoWwCLcBGAsYHQ/s1600/grub3.jpg"
 		},
 		{
 			"id":4,
 			"id_wall":"004",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-b7QzaJ1QtHc/Xpf6HmmdlPI/AAAAAAAAABo/qOF6vskI15AGqJ9T6ViiHAaEwF64TNevwCLcBGAsYHQ/s320/grub4.jpg"
+			"image":"https://1.bp.blogspot.com/-b7QzaJ1QtHc/Xpf6HmmdlPI/AAAAAAAAABo/qOF6vskI15AGqJ9T6ViiHAaEwF64TNevwCLcBGAsYHQ/s1600/grub4.jpg"
 		},
 		{
 			"id":5,
 			"id_wall":"005",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-5OsCZ_BfuWo/Xpf6H6NY48I/AAAAAAAAABs/9x71v1oWzGYk8Od26xxPfwj_XtKh6eaUACLcBGAsYHQ/s320/grub5.jpg"
+			"image":"https://1.bp.blogspot.com/-5OsCZ_BfuWo/Xpf6H6NY48I/AAAAAAAAABs/9x71v1oWzGYk8Od26xxPfwj_XtKh6eaUACLcBGAsYHQ/s1600/grub5.jpg"
 		},
 		{
 			"id":6,
 			"id_wall":"006",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-Y2fobj7C08A/Xpf6IFeKhyI/AAAAAAAAAB0/D99ER3X7BuwiWPwcqG--xmr64S-TWHOvwCLcBGAsYHQ/s320/grub6.jpg"
+			"image":"https://1.bp.blogspot.com/-Y2fobj7C08A/Xpf6IFeKhyI/AAAAAAAAAB0/D99ER3X7BuwiWPwcqG--xmr64S-TWHOvwCLcBGAsYHQ/s1600/grub6.jpg"
 		},
 		{
 			"id":7,
 			"id_wall":"007",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/--E8LxfZUmcs/Xpf6IE-66sI/AAAAAAAAABw/l2cZ75-6Kik9-guFwLQlbVR05GbntlYSQCLcBGAsYHQ/s320/grub7.jpg"
+			"image":"https://1.bp.blogspot.com/--E8LxfZUmcs/Xpf6IE-66sI/AAAAAAAAABw/l2cZ75-6Kik9-guFwLQlbVR05GbntlYSQCLcBGAsYHQ/s1600/grub7.jpg"
 		},
 		{
 			"id":8,
 			"id_wall":"008",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-aQqw1FJozaU/Xpf6Iaq4GFI/AAAAAAAAAB4/KZNnRr4UIzgC_qOpp_ABUT1_bz9YFnEjwCLcBGAsYHQ/s320/grub8.jpg"
+			"image":"https://1.bp.blogspot.com/-aQqw1FJozaU/Xpf6Iaq4GFI/AAAAAAAAAB4/KZNnRr4UIzgC_qOpp_ABUT1_bz9YFnEjwCLcBGAsYHQ/s1600/grub8.jpg"
 		},
 		{
 			"id":9,
 			"id_wall":"009",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-PZKNS2_Y7tA/Xpf6I6oCn2I/AAAAAAAAAB8/xidka63HfxssdZrh8duOdPeKtfw0g6ojACLcBGAsYHQ/s320/grub9.jpg"
+			"image":"https://1.bp.blogspot.com/-PZKNS2_Y7tA/Xpf6I6oCn2I/AAAAAAAAAB8/xidka63HfxssdZrh8duOdPeKtfw0g6ojACLcBGAsYHQ/s1600/grub9.jpg"
 		},
 		{
 			"id":10,
 			"id_wall":"010",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-eviqRI3IEkM/Xpf6D6iRtmI/AAAAAAAAAA0/gvIk5qi7SnoU3By02KViSIjY_jxSoKSjgCLcBGAsYHQ/s320/grub10.jpg"
+			"image":"https://1.bp.blogspot.com/-eviqRI3IEkM/Xpf6D6iRtmI/AAAAAAAAAA0/gvIk5qi7SnoU3By02KViSIjY_jxSoKSjgCLcBGAsYHQ/s1600/grub10.jpg"
 		},
 		{
 			"id":11,
 			"id_wall":"011",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-qZyoHxZU5I0/Xpf6DjP0e1I/AAAAAAAAAAs/SekHCkNOQ_QwqOUlWgtsq1cq2oeFWwXjgCLcBGAsYHQ/s320/grub11.jpg"
+			"image":"https://1.bp.blogspot.com/-qZyoHxZU5I0/Xpf6DjP0e1I/AAAAAAAAAAs/SekHCkNOQ_QwqOUlWgtsq1cq2oeFWwXjgCLcBGAsYHQ/s1600/grub11.jpg"
 		},
 		{
 			"id":12,
 			"id_wall":"012",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-JQCT_WS4sVo/Xpf6EMvVxbI/AAAAAAAAABU/MM1jqjkseUYOvFEwgLaxkkHwrmEReHWDQCLcBGAsYHQ/s320/grub12.jpg"
+			"image":"https://1.bp.blogspot.com/-JQCT_WS4sVo/Xpf6EMvVxbI/AAAAAAAAABU/MM1jqjkseUYOvFEwgLaxkkHwrmEReHWDQCLcBGAsYHQ/s1600/grub12.jpg"
 		},
 		{
 			"id":13,
 			"id_wall":"013",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-OkOmYD1r8eM/Xpf6EvRWrWI/AAAAAAAAAA4/5pzq6sMHsBgYqLJ6WCbTV0M5q9VGVNkngCLcBGAsYHQ/s320/grub13.jpg"
+			"image":"https://1.bp.blogspot.com/-OkOmYD1r8eM/Xpf6EvRWrWI/AAAAAAAAAA4/5pzq6sMHsBgYqLJ6WCbTV0M5q9VGVNkngCLcBGAsYHQ/s1600/grub13.jpg"
 		},
 		{
 			"id":14,
 			"id_wall":"014",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/--U7SSw8V-3E/Xpf6EweqThI/AAAAAAAAAA8/c8wzif9-S8wzy5_gtdCVBCRlJgnq8t99ACLcBGAsYHQ/s320/grub14.jpg"
+			"image":"https://1.bp.blogspot.com/--U7SSw8V-3E/Xpf6EweqThI/AAAAAAAAAA8/c8wzif9-S8wzy5_gtdCVBCRlJgnq8t99ACLcBGAsYHQ/s1600/grub14.jpg"
 		},
 		{
 			"id":15,
 			"id_wall":"015",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-oujZscSvqVc/Xpf6FZVg9uI/AAAAAAAAABA/RvT5EsrBveQ5WHM3VIDvCpTgemCLShY5ACLcBGAsYHQ/s320/grub15.jpg"
+			"image":"https://1.bp.blogspot.com/-oujZscSvqVc/Xpf6FZVg9uI/AAAAAAAAABA/RvT5EsrBveQ5WHM3VIDvCpTgemCLShY5ACLcBGAsYHQ/s1600/grub15.jpg"
 		},
 		{
 			"id":16,
 			"id_wall":"016",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-N-flduyImV8/Xpf6FW_mjvI/AAAAAAAAABE/JvdAFRg0Eh0FdLQ3zrLJY4aQuX76DwmQwCLcBGAsYHQ/s320/grub16.jpg"
+			"image":"https://1.bp.blogspot.com/-N-flduyImV8/Xpf6FW_mjvI/AAAAAAAAABE/JvdAFRg0Eh0FdLQ3zrLJY4aQuX76DwmQwCLcBGAsYHQ/s1600/grub16.jpg"
 		},
 		{
 			"id":17,
 			"id_wall":"017",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-HpAfmu-UBhg/Xpf6F8VAFkI/AAAAAAAAABM/iuXMwAAE1Hs4KFHvALyA08jzeous3uhFgCLcBGAsYHQ/s320/grub17.jpg"
+			"image":"https://1.bp.blogspot.com/-HpAfmu-UBhg/Xpf6F8VAFkI/AAAAAAAAABM/iuXMwAAE1Hs4KFHvALyA08jzeous3uhFgCLcBGAsYHQ/s1600/grub17.jpg"
 		},
 		{
 			"id":18,
 			"id_wall":"018",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-oraEw6jLaPU/Xpf6F7d7BgI/AAAAAAAAABI/7a1Ayv9yfv4eA4t0n6v-uqm0nLpPZYX9ACLcBGAsYHQ/s320/grub18.jpg"
+			"image":"https://1.bp.blogspot.com/-oraEw6jLaPU/Xpf6F7d7BgI/AAAAAAAAABI/7a1Ayv9yfv4eA4t0n6v-uqm0nLpPZYX9ACLcBGAsYHQ/s1600/grub18.jpg"
 		},
 		{
 			"id":19,
 			"id_wall":"019",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-vngUMqPL2YQ/Xpf6Gab1AkI/AAAAAAAAABQ/ZUdqh-kBD2M6pRKzbmEOWy4VBrnZODjqwCLcBGAsYHQ/s320/grub19.jpg"
+			"image":"https://1.bp.blogspot.com/-vngUMqPL2YQ/Xpf6Gab1AkI/AAAAAAAAABQ/ZUdqh-kBD2M6pRKzbmEOWy4VBrnZODjqwCLcBGAsYHQ/s1600/grub19.jpg"
 		},
 		{
 			"id":20,
 			"id_wall":"020",
 			"nama_cat": "BTS Grub",
 			"judul":"BTS",
-			"image":"https://1.bp.blogspot.com/-l1y83M5IobA/Xpf6HKsFkAI/AAAAAAAAABc/x58li0MdY_QrWeB-G1nEMRLg_W9xL7UVgCLcBGAsYHQ/s320/grub20.jpg"
+			"image":"https://1.bp.blogspot.com/-l1y83M5IobA/Xpf6HKsFkAI/AAAAAAAAABc/x58li0MdY_QrWeB-G1nEMRLg_W9xL7UVgCLcBGAsYHQ/s1600/grub20.jpg"
 		},
 		{
 			"id":21,
 			"id_wall":"021",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-qEpeEoreSi0/Xpf69ruFnVI/AAAAAAAAACk/mVckPZ35XYMorygNg6pOnH8PshCdZBDpQCLcBGAsYHQ/s320/jhope1.jpg"
+			"image":"https://1.bp.blogspot.com/-qEpeEoreSi0/Xpf69ruFnVI/AAAAAAAAACk/mVckPZ35XYMorygNg6pOnH8PshCdZBDpQCLcBGAsYHQ/s1600/jhope1.jpg"
 		},
 		{
 			"id":22,
 			"id_wall":"022",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-dw5jlEoPHUQ/Xpf6__nVfkI/AAAAAAAAADE/QCDkQ5PMnWYiGmMCkBr7yXwXLHVQJ8GXgCLcBGAsYHQ/s320/jhope2.jpg"
+			"image":"https://1.bp.blogspot.com/-dw5jlEoPHUQ/Xpf6__nVfkI/AAAAAAAAADE/QCDkQ5PMnWYiGmMCkBr7yXwXLHVQJ8GXgCLcBGAsYHQ/s1600/jhope2.jpg"
 		},
 		{
 			"id":23,
 			"id_wall":"023",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-X70Qk4hxmmE/Xpf7ABfp_GI/AAAAAAAAADI/fe4Y_KA4tIc1up8vBK-847J3nlO1cWwnQCLcBGAsYHQ/s320/jhope3.jpg"
+			"image":"https://1.bp.blogspot.com/-X70Qk4hxmmE/Xpf7ABfp_GI/AAAAAAAAADI/fe4Y_KA4tIc1up8vBK-847J3nlO1cWwnQCLcBGAsYHQ/s1600/jhope3.jpg"
 		},
 		{
 			"id":24,
 			"id_wall":"024",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-xWJSfy7bW7E/Xpf7AGe0DfI/AAAAAAAAADM/o0_g91TZAUMr7VmwFe7FjSEBFCmhzxntwCLcBGAsYHQ/s320/jhope4.jpg"
+			"image":"https://1.bp.blogspot.com/-xWJSfy7bW7E/Xpf7AGe0DfI/AAAAAAAAADM/o0_g91TZAUMr7VmwFe7FjSEBFCmhzxntwCLcBGAsYHQ/s1600/jhope4.jpg"
 		},
 		{
 			"id":25,
 			"id_wall":"025",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-Xm5wKcxHr7g/Xpf7AXe6FHI/AAAAAAAAADQ/TckCV6YD2DY5vKy0IQXOGBxLxqwzJ4oywCLcBGAsYHQ/s320/jhope5.jpg"
+			"image":"https://1.bp.blogspot.com/-Xm5wKcxHr7g/Xpf7AXe6FHI/AAAAAAAAADQ/TckCV6YD2DY5vKy0IQXOGBxLxqwzJ4oywCLcBGAsYHQ/s1600/jhope5.jpg"
 		},
 		{
 			"id":26,
 			"id_wall":"026",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-ZR2N42FZEvE/Xpf7Azy3ZXI/AAAAAAAAADU/EAYFORG3pyQfpN2UOVxuWH-piW7zneFsQCLcBGAsYHQ/s320/jhope6.jpg"
+			"image":"https://1.bp.blogspot.com/-ZR2N42FZEvE/Xpf7Azy3ZXI/AAAAAAAAADU/EAYFORG3pyQfpN2UOVxuWH-piW7zneFsQCLcBGAsYHQ/s1600/jhope6.jpg"
 		},
 		{
 			"id":27,
 			"id_wall":"027",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-r8eEvl9vSx4/Xpf7BXN7iAI/AAAAAAAAADY/CM7h_SNC8Z0TXKF3y7pN6bmQzsJHw7d9wCLcBGAsYHQ/s320/jhope7.jpg"
+			"image":"https://1.bp.blogspot.com/-r8eEvl9vSx4/Xpf7BXN7iAI/AAAAAAAAADY/CM7h_SNC8Z0TXKF3y7pN6bmQzsJHw7d9wCLcBGAsYHQ/s1600/jhope7.jpg"
 		},
 		{
 			"id":28,
 			"id_wall":"028",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-cJ8SoqvnTC8/Xpf7BwAXyXI/AAAAAAAAADc/Nyq1xaUjtNgV_mgk43GIzqX-2iqU9kenACLcBGAsYHQ/s320/jhope8.jpg"
+			"image":"https://1.bp.blogspot.com/-cJ8SoqvnTC8/Xpf7BwAXyXI/AAAAAAAAADc/Nyq1xaUjtNgV_mgk43GIzqX-2iqU9kenACLcBGAsYHQ/s1600/jhope8.jpg"
 		},
 		{
 			"id":29,
 			"id_wall":"029",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-3FR6td6-LMY/Xpf7CFQTF5I/AAAAAAAAADg/2BjP4LPzAjw5NVMBVMpGvGtwsCRcAne5wCLcBGAsYHQ/s320/jhope9.jpg"
+			"image":"https://1.bp.blogspot.com/-3FR6td6-LMY/Xpf7CFQTF5I/AAAAAAAAADg/2BjP4LPzAjw5NVMBVMpGvGtwsCRcAne5wCLcBGAsYHQ/s1600/jhope9.jpg"
 		},
 		{
 			"id":30,
 			"id_wall":"030",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-kZtG--sApKk/Xpf69UKYP8I/AAAAAAAAACc/AoNFgYo_NiMrZlpIE9i-_mCLzN09-rJfACLcBGAsYHQ/s320/jhope10.jpg"
+			"image":"https://1.bp.blogspot.com/-kZtG--sApKk/Xpf69UKYP8I/AAAAAAAAACc/AoNFgYo_NiMrZlpIE9i-_mCLzN09-rJfACLcBGAsYHQ/s1600/jhope10.jpg"
 		},
 		{
 			"id":31,
 			"id_wall":"031",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-vjRn9QP4DxU/Xpf69mYSPTI/AAAAAAAAACg/9eKTs_GmC3gBlo4mAxiJAcrGnQP30eTDwCLcBGAsYHQ/s320/jhope11.jpg"
+			"image":"https://1.bp.blogspot.com/-vjRn9QP4DxU/Xpf69mYSPTI/AAAAAAAAACg/9eKTs_GmC3gBlo4mAxiJAcrGnQP30eTDwCLcBGAsYHQ/s1600/jhope11.jpg"
 		},
 		{
 			"id":32,
 			"id_wall":"032",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-Xb0NfYVfFSc/Xpf6-PuukWI/AAAAAAAAACo/XLgMUKbux6kIu74FQs1BbXFlcDol4PtIgCLcBGAsYHQ/s320/jhope12.jpg"
+			"image":"https://1.bp.blogspot.com/-Xb0NfYVfFSc/Xpf6-PuukWI/AAAAAAAAACo/XLgMUKbux6kIu74FQs1BbXFlcDol4PtIgCLcBGAsYHQ/s1600/jhope12.jpg"
 		},
 		{
 			"id":33,
 			"id_wall":"033",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-dBce5FILp-Y/Xpf6-cNEt-I/AAAAAAAAACs/PMk8-rU-t5AZySDx3cLwGzlJp5q2HnaJwCLcBGAsYHQ/s320/jhope13.jpg"
+			"image":"https://1.bp.blogspot.com/-dBce5FILp-Y/Xpf6-cNEt-I/AAAAAAAAACs/PMk8-rU-t5AZySDx3cLwGzlJp5q2HnaJwCLcBGAsYHQ/s1600/jhope13.jpg"
 		},
 		{
 			"id":34,
 			"id_wall":"034",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-m56tlODmFnU/Xpf6-UboEEI/AAAAAAAAACw/mCZ3eB5kcgYhLKnIpHJmk1MvdA19tW56wCLcBGAsYHQ/s320/jhope14.jpg"
+			"image":"https://1.bp.blogspot.com/-m56tlODmFnU/Xpf6-UboEEI/AAAAAAAAACw/mCZ3eB5kcgYhLKnIpHJmk1MvdA19tW56wCLcBGAsYHQ/s1600/jhope14.jpg"
 		},
 		{
 			"id":35,
 			"id_wall":"035",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-uaUDsK5SF2s/Xpf6-mCU3AI/AAAAAAAAAC0/TQVHs_IbS6c8DDhmYrTfvDtcLCUooICcACLcBGAsYHQ/s320/jhope15.jpg"
+			"image":"https://1.bp.blogspot.com/-uaUDsK5SF2s/Xpf6-mCU3AI/AAAAAAAAAC0/TQVHs_IbS6c8DDhmYrTfvDtcLCUooICcACLcBGAsYHQ/s1600/jhope15.jpg"
 		},
 		{
 			"id":36,
 			"id_wall":"036",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-NuIPJ1UsQow/Xpf6_VMOkQI/AAAAAAAAAC4/V2dZ2nNuQQMD7KQlzc9kbT6KV2XXC6GBgCLcBGAsYHQ/s320/jhope16.jpg"
+			"image":"https://1.bp.blogspot.com/-NuIPJ1UsQow/Xpf6_VMOkQI/AAAAAAAAAC4/V2dZ2nNuQQMD7KQlzc9kbT6KV2XXC6GBgCLcBGAsYHQ/s1600/jhope16.jpg"
 		},
 		{
 			"id":37,
 			"id_wall":"037",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-sOXPB9EbsNs/Xpf6_dCqUDI/AAAAAAAAAC8/63k2PtCrSScr9qRnetCoKRI9BCwzjy-sACLcBGAsYHQ/s320/jhope17.jpg"
+			"image":"https://1.bp.blogspot.com/-sOXPB9EbsNs/Xpf6_dCqUDI/AAAAAAAAAC8/63k2PtCrSScr9qRnetCoKRI9BCwzjy-sACLcBGAsYHQ/s1600/jhope17.jpg"
 		},
 		{
 			"id":38,
 			"id_wall":"038",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
-			"image":"https://1.bp.blogspot.com/-_7RldXMhYOg/Xpf6_quTVpI/AAAAAAAAADA/-dEO4IUJ-LQebKtSmtLdcFFMlHrZ2KELwCLcBGAsYHQ/s320/jhope18.jpg"
+			"image":"https://1.bp.blogspot.com/-_7RldXMhYOg/Xpf6_quTVpI/AAAAAAAAADA/-dEO4IUJ-LQebKtSmtLdcFFMlHrZ2KELwCLcBGAsYHQ/s1600/jhope18.jpg"
 		}
 
 	]
