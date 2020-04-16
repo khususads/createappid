@@ -17,7 +17,7 @@
         
         "interval": 1,
         "inter_splash":"0",
-        "pengaturan_iklan":"0",
+        "pengaturan_iklan":"1",
         
         "fan_inter":"981545408591412_999151030164183",
         "fan_banner_native":"981545408591412_2709037092508893",
@@ -73,6 +73,42 @@
 		"id": 2,
 		"nama_cat": "Jhope",
 		"gambar": "https://1.bp.blogspot.com/-r8eEvl9vSx4/Xpf7BXN7iAI/AAAAAAAAADY/CM7h_SNC8Z0TXKF3y7pN6bmQzsJHw7d9wCLcBGAsYHQ/s320/jhope7.jpg"
+    
+    },
+    {
+		"id": 3,
+		"nama_cat": "Jimin",
+		"gambar": "https://1.bp.blogspot.com/-r5a8WwtaFhY/Xpf7WL_ImuI/AAAAAAAAAE0/2GyGdv-8Yog2y5bdeIriJzzfZ7Dz7qMKACLcBGAsYHQ/s320/jimin5.jpg"
+    
+	},
+	{
+		"id": 4,
+		"nama_cat": "Jin",
+		"gambar": "https://1.bp.blogspot.com/-h0iUAl8NiMs/Xpf7mB714yI/AAAAAAAAAF8/X_c9DM13SBoNx3IJCtM2N7cnm91IgKHqQCLcBGAsYHQ/s320/jin4.jpg"
+     
+    },
+    {
+		"id": 5,
+		"nama_cat": "Jungkook",
+		"gambar": "https://1.bp.blogspot.com/-nYLJgHwsUnw/Xpf73T_keYI/AAAAAAAAAGw/xSNWI9RLygIvdljc6qXS1cUOf4jHN32JQCLcBGAsYHQ/s320/jungkook1.jpg"
+    
+    },
+    {
+		"id": 6,
+		"nama_cat": "RM",
+		"gambar": "https://1.bp.blogspot.com/-tW_ViQxzrts/Xpf8JGFn_SI/AAAAAAAAAH8/RGGOr-wnJr4_IUjBa_ICfz3fSTvL2cADwCLcBGAsYHQ/s320/rm11.jpg"
+    
+	},
+	{
+		"id": 7,
+		"nama_cat": "Suga",
+		"gambar": "https://1.bp.blogspot.com/-7jbSwbK3MQk/Xpf8ginachI/AAAAAAAAAJc/dnZ8yI156dYGoZ-gwMbyYSwxfRw6pwjtACLcBGAsYHQ/s320/suga1.jpg"
+     
+    },
+    {
+		"id": 8,
+		"nama_cat": "V",
+		"gambar": "https://1.bp.blogspot.com/-fqkAAHotU4U/Xpf8wxEyQgI/AAAAAAAAALQ/HHWjZNZrdqg94DhblraROlurrl1A3BmXwCLcBGAsYHQ/s320/v18.jpg"
     
     }
 	
@@ -223,127 +259,127 @@
 			"image":"https://1.bp.blogspot.com/-l1y83M5IobA/Xpf6HKsFkAI/AAAAAAAAABc/x58li0MdY_QrWeB-G1nEMRLg_W9xL7UVgCLcBGAsYHQ/s320/grub20.jpg"
 		},
 		{
-			"id":J1,
-			"id_wall":"J1",
+			"id":21,
+			"id_wall":"21",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-qEpeEoreSi0/Xpf69ruFnVI/AAAAAAAAACk/mVckPZ35XYMorygNg6pOnH8PshCdZBDpQCLcBGAsYHQ/s320/jhope1.jpg"
 		},
 		{
-			"id":J2,
-			"id_wall":"J2",
+			"id":22,
+			"id_wall":"22",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-dw5jlEoPHUQ/Xpf6__nVfkI/AAAAAAAAADE/QCDkQ5PMnWYiGmMCkBr7yXwXLHVQJ8GXgCLcBGAsYHQ/s320/jhope2.jpg"
 		},
 		{
-			"id":J3,
-			"id_wall":"J3",
+			"id":23,
+			"id_wall":"23",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-X70Qk4hxmmE/Xpf7ABfp_GI/AAAAAAAAADI/fe4Y_KA4tIc1up8vBK-847J3nlO1cWwnQCLcBGAsYHQ/s320/jhope3.jpg"
 		},
 		{
-			"id":J4,
-			"id_wall":"J4",
+			"id":24,
+			"id_wall":"24",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-xWJSfy7bW7E/Xpf7AGe0DfI/AAAAAAAAADM/o0_g91TZAUMr7VmwFe7FjSEBFCmhzxntwCLcBGAsYHQ/s320/jhope4.jpg"
 		}
 		{
-			"id":J5,
-			"id_wall":"J5",
+			"id":25,
+			"id_wall":"25",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-Xm5wKcxHr7g/Xpf7AXe6FHI/AAAAAAAAADQ/TckCV6YD2DY5vKy0IQXOGBxLxqwzJ4oywCLcBGAsYHQ/s320/jhope5.jpg"
 		},
 		{
-			"id":J6,
-			"id_wall":"J6",
+			"id":26,
+			"id_wall":"26",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-ZR2N42FZEvE/Xpf7Azy3ZXI/AAAAAAAAADU/EAYFORG3pyQfpN2UOVxuWH-piW7zneFsQCLcBGAsYHQ/s320/jhope6.jpg"
 		},
 		{
-			"id":J7,
-			"id_wall":"J7",
+			"id":27,
+			"id_wall":"27",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-r8eEvl9vSx4/Xpf7BXN7iAI/AAAAAAAAADY/CM7h_SNC8Z0TXKF3y7pN6bmQzsJHw7d9wCLcBGAsYHQ/s320/jhope7.jpg"
 		},
 		{
-			"id":J8,
-			"id_wall":"J8",
+			"id":28,
+			"id_wall":"28",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-cJ8SoqvnTC8/Xpf7BwAXyXI/AAAAAAAAADc/Nyq1xaUjtNgV_mgk43GIzqX-2iqU9kenACLcBGAsYHQ/s320/jhope8.jpg"
 		}
 		{
-			"id":J9,
-			"id_wall":"J9",
+			"id":29,
+			"id_wall":"29",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-3FR6td6-LMY/Xpf7CFQTF5I/AAAAAAAAADg/2BjP4LPzAjw5NVMBVMpGvGtwsCRcAne5wCLcBGAsYHQ/s320/jhope9.jpg"
 		},
 		{
-			"id":JH10,
-			"id_wall":"JH10",
+			"id":30,
+			"id_wall":"30",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-kZtG--sApKk/Xpf69UKYP8I/AAAAAAAAACc/AoNFgYo_NiMrZlpIE9i-_mCLzN09-rJfACLcBGAsYHQ/s320/jhope10.jpg"
 		},
 		{
-			"id":JH11,
-			"id_wall":"JH11",
+			"id":31,
+			"id_wall":"31",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-vjRn9QP4DxU/Xpf69mYSPTI/AAAAAAAAACg/9eKTs_GmC3gBlo4mAxiJAcrGnQP30eTDwCLcBGAsYHQ/s320/jhope11.jpg"
 		},
 		{
-			"id":JH12,
-			"id_wall":"JH12",
+			"id":32,
+			"id_wall":"32",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-Xb0NfYVfFSc/Xpf6-PuukWI/AAAAAAAAACo/XLgMUKbux6kIu74FQs1BbXFlcDol4PtIgCLcBGAsYHQ/s320/jhope12.jpg"
 		}
 		{
-			"id":JH13,
-			"id_wall":"JH13",
+			"id":33,
+			"id_wall":"33",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-dBce5FILp-Y/Xpf6-cNEt-I/AAAAAAAAACs/PMk8-rU-t5AZySDx3cLwGzlJp5q2HnaJwCLcBGAsYHQ/s320/jhope13.jpg"
 		},
 		{
-			"id":JH14,
-			"id_wall":"JH14",
+			"id":34,
+			"id_wall":"34",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-m56tlODmFnU/Xpf6-UboEEI/AAAAAAAAACw/mCZ3eB5kcgYhLKnIpHJmk1MvdA19tW56wCLcBGAsYHQ/s320/jhope14.jpg"
 		},
 		{
-			"id":JH15,
-			"id_wall":"JH15",
+			"id":35,
+			"id_wall":"35",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-uaUDsK5SF2s/Xpf6-mCU3AI/AAAAAAAAAC0/TQVHs_IbS6c8DDhmYrTfvDtcLCUooICcACLcBGAsYHQ/s320/jhope15.jpg"
 		},
 		{
-			"id":JH16,
-			"id_wall":"JH16",
+			"id":36,
+			"id_wall":"36",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-NuIPJ1UsQow/Xpf6_VMOkQI/AAAAAAAAAC4/V2dZ2nNuQQMD7KQlzc9kbT6KV2XXC6GBgCLcBGAsYHQ/s320/jhope16.jpg"
 		}
 		{
-			"id":JH17,
-			"id_wall":"JH17",
+			"id":37,
+			"id_wall":"37",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-sOXPB9EbsNs/Xpf6_dCqUDI/AAAAAAAAAC8/63k2PtCrSScr9qRnetCoKRI9BCwzjy-sACLcBGAsYHQ/s320/jhope17.jpg"
 		},
 		{
-			"id":JH18,
-			"id_wall":"JH18",
+			"id":38,
+			"id_wall":"38",
 			"nama_cat": "Jhope",
 			"judul":"Jhope",
 			"image":"https://1.bp.blogspot.com/-_7RldXMhYOg/Xpf6_quTVpI/AAAAAAAAADA/-dEO4IUJ-LQebKtSmtLdcFFMlHrZ2KELwCLcBGAsYHQ/s320/jhope18.jpg"
