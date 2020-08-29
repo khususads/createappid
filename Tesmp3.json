@@ -12,7 +12,7 @@
                 "pengaturan_iklan": "2",
 		"inter_count": 2,
 
-            	"startapp": "204682498",
+            	"startapp": "",
 
                 "appid": "pub-3940256099942544",
                 "admobappid": "ca-app-pub-3940256099942544~3347511713",
@@ -20,12 +20,12 @@
                 "interid": "ca-app-pub-3940256099942544/1033173712",
 		"nativeid" : "ca-app-pub-3940256099942544/2247696110",                
 
-                "hpk_alien": "kuota data 30gb",
-                "hpkadmob1": "Kuota Data",
-                "hpkadmob2": "Bank Jenius",
-                "hpkadmob3": "Simpati",
-                "hpkadmob4": "Telkomsel",
-                "hpkadmob5": "Donasi",
+                "hpk_alien": "",
+                "hpkadmob1": "",
+                "hpkadmob2": "",
+                "hpkadmob3": "",
+                "hpkadmob4": "",
+                "hpkadmob5": "",
 
                 "fan_inter": "981545408591412_999151030164183",
                 "fan_banner": "981545408591412_2709037092508893",
@@ -35,11 +35,11 @@
 		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
 				 
                 "url_more_apps": "https://play.google.com/store/apps/developer?id=ihsan+berjuang",
-                "rate_button" : "Rate 5 Stars Now",
+                "rate_button" : "Rate 5 Stars",
                 "later_button" : "Rate Later",
-		"more_button" : "More Awesome Apps",
+		"more_button" : "More Mp3 Apps",
 				 
-		"json_popup_wait" : "Ready . . . ."
+		"json_popup_wait" : "Ready To Start..."
 
         }
     ]
