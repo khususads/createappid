@@ -5,9 +5,9 @@
 		"url_utama": "file:///android_asset/music/playlist.html",
 
 		"enable_mp3": true,
-                "enable_strap": true,
-                "enable_strap_Splah": true,
-                "ads_on_exit_dialog": true,
+                "enable_strap": false,
+                "enable_strap_Splah": false,
+                "ads_on_exit_dialog": false,
 
                 "pengaturan_iklan": "2",
 		"inter_count": 2,
