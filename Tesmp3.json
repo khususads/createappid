@@ -1,46 +1,35 @@
 {
-    "redirect":
-	[
-        {
-		"url_utama": "file:///android_asset/music/playlist.html",
-
-		"enable_mp3": true,
-                "enable_strap": false,
-                "enable_strap_Splah": false,
-                "ads_on_exit_dialog": false,
-
-                "pengaturan_iklan": "2",
-		"inter_count": 2,
-
-            	"startapp": "",
-
-                "appid": "pub-3940256099942544",
-                "admobappid": "ca-app-pub-3940256099942544~3347511713",
-                "bannerid": "ca-app-pub-3940256099942544/6300978111_salah",
-                "interid": "ca-app-pub-3940256099942544/1033173712",
-		"nativeid" : "ca-app-pub-3940256099942544/2247696110",                
-
-                "hpk_alien": "",
-                "hpkadmob1": "",
-                "hpkadmob2": "",
-                "hpkadmob3": "",
-                "hpkadmob4": "",
-                "hpkadmob5": "",
-
-                "fan_inter": "981545408591412_999151030164183",
-                "fan_banner": "981545408591412_2709037092508893",
-		"fan_native": "981545408591412_1232226853523265",
-
-		"exit_popup_dialog":
-		"For the good of this application \n\nplease help give us support by doing 5 star rating :)",
-				 
-                "url_more_apps": "https://play.google.com/store/apps/developer?id=ihsan+berjuang",
-                "rate_button" : "Rate 5 Stars",
-                "later_button" : "Rate Later",
-		"more_button" : "More Mp3 Apps",
-				 
-		"json_popup_wait" : "Ready To Start..."
-
-        }
-    ]
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"2",
+      "admob_open_ads":"",
+      "admob_banner":"",
+      "admob_inter":"",
+      "admob_native":"",
+      "interval":1,
+      "appodeal_apikey":"74457e537428f01dc5022bc716d69319e350fc3421d79b27",
+      "startappid":"",
+      "mopub_banner":"",
+      "mopub_inter":""
+    }
+  ],
+  "More":
+  [
+ 
+  ],
+  "Skin":
+  [
+   
+  ],
+  "Addons":
+  [
+    
+  ],
+  "Maps":
+  [
+    
+  ]
 }
